@@ -1,3 +1,10 @@
+# Description
+
+This project was created with the to experiment with the React framework in union with asp.net.  
+
+
+
+
 react-typescript-definitions
 ============================
 
