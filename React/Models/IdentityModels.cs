@@ -29,5 +29,7 @@ namespace React.Models
         {
             return new ApplicationDbContext();
         }
+        public DbSet<CommentModel> Comments { get; set; }
+
     }
 }
